@@ -1,1 +1,1 @@
-# rsschool-cv
+# https://krishoot.github.io/rsschool-cv/cv
