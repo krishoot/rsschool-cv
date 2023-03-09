@@ -19,4 +19,11 @@
       console.log(result);
       ```
 6. Experience:
+
+   I worked as a layout designer in a small company, after which I got a job in another, larger company. I am currently developing various websites.
+7. Education:
+
+   Bryansk State University ak. I. G. Petrovsky
+8. English: 
    
+   A1
