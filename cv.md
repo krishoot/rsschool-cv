@@ -9,13 +9,14 @@
    * CSS3
    * Git
    * Figma & Photoshop
-5. ```javascript
-   function getSum(x, y) {
-    return x + y;
-   }
-   
-   let result = getSum(3, 4);
-   console.log(result);
-   ```
+5. Code example: 
+   ```javascript
+      function getSum(x, y) {
+       return x + y;
+      }
+      
+      let result = getSum(3, 4);
+      console.log(result);
+      ```
 6. Experience:
    
