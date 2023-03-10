@@ -1,1 +1,1 @@
-# https://krishoot.github.io/rsschool-cv/cv
+# https://krishoot.github.io/rsschool-cv/
